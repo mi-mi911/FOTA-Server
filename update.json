@@ -1,4 +1,5 @@
 {
   "version": "1.0",
-  "firmware": "https://raw.githubusercontent.com/mi-mi911/FOTA-Server/main/update.json"
+  "firmware": "https://github.com/mi-mi911/FOTA-Server/releases/download/v1.0/firmware.bin"
 }
+
